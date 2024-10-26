@@ -1,5 +1,11 @@
 ## Hi there 👋
-I'm a student currently studying fullstack JavaScript at Chas Academy.
+I'm a student currently studying fullstack JavaScript at Chas Academy in Stockholm.
+
+Looking for 6 month internship/LIA end of 2025.
+
+**⚡ CSS, JavaScript, Vue.js**
+
+**❤️ webdev, drawing, writing, games, comics, dogs**
 
 <!--
 **idaohlen/idaohlen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
