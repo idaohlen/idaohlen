@@ -1,9 +1,9 @@
 ## Hi there 👋
 I'm a student currently studying fullstack JavaScript at Chas Academy in Stockholm.
 
-Looking for 6 month internship/LIA end of 2025.
+Looking for 6 month internship/LIA end of 2025/beginning of 2026.
 
-**⚡ CSS, JavaScript, Vue.js**
+**⚡ CSS, JavaScript, TypeScript, Vue.js, React**
 
 **❤️ webdev, drawing, writing, games, comics, dogs**
 
